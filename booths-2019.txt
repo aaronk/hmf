@@ -1,0 +1,421 @@
+Booth	Activity	Slot	Requested slots	Name	Email	Phone	Comments
+Attic Treasures	Thursday set up	Thursday evening	3	Katja Baker	katjabakerpsyd@gmail.com		
+Attic Treasures	Thursday set up	Thursday evening	3				
+Attic Treasures	Thursday set up	Thursday evening	3				
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5				
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5				
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5				
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5				
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5				
+Attic Treasures	Boothing	Saturday 9:45-11:45	4				
+Attic Treasures	Boothing	Saturday 9:45-11:45	4				
+Attic Treasures	Boothing	Saturday 9:45-11:45	4				
+Attic Treasures	Boothing	Saturday 9:45-11:45	4				
+Attic Treasures	Boothing	Saturday 11:45-1:45	4				
+Attic Treasures	Boothing	Saturday 11:45-1:45	4				
+Attic Treasures	Boothing	Saturday 11:45-1:45	4				
+Attic Treasures	Boothing	Saturday 11:45-1:45	4				
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4				
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4				
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4				
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4				
+Artisan Table	Set up and pricing	Friday	2				
+Artisan Table	Set up and pricing	Friday	2				
+Artisan Table	Boothing	Saturday 9:45-11:45	2				
+Artisan Table	Boothing	Saturday 9:45-11:45	2				
+Artisan Table	Boothing	Saturday 11:45-1:45	2				
+Artisan Table	Boothing	Saturday 11:45-1:45	2				
+Artisan Table	Boothing	Saturday 11:45-1:45					
+Artisan Table	Boothing	Saturday 1:45- 3:45	2				
+Artisan Table	Boothing	Saturday 1:45- 3:45	2				
+Artisan Table	Boothing	Saturday 1:45- 3:45	2				
+Art Gallery	Thursday set up	Thursday 5:30 to 8	2				
+Art Gallery	Thursday set up	Thursday 5:30 to 8	2				
+Art Gallery	Set up and pricing	Friday (indicate time)	4				
+Art Gallery	Set up and pricing	Friday (indicate time)	4				
+Art Gallery	Set up and pricing	Friday (indicate time)	4				
+Art Gallery	Set up and pricing	Friday (indicate time)	4				
+Art Gallery	Boothing	Saturday 9:45- 11:45	2				
+Art Gallery	Boothing	Saturday 9:45- 11:45	2				
+Art Gallery	Boothing	Saturday 11:45-1:45	2				
+Art Gallery	Boothing	Saturday 11:45-1:45	2				
+Art Gallery	Boothing	Saturday 1:45- 3:45	2				
+Art Gallery	Boothing	Saturday 1:45- 3:45	2				
+Bargain Basement	Sorting and set up	Thursday after 6PM	4				
+Bargain Basement	Sorting and set up	Thursday after 6PM	4				
+Bargain Basement	Sorting and set up	Thursday after 6PM	4				
+Bargain Basement	Sorting and set up	Thursday after 6PM	4				
+Bargain Basement	Set up and pricing	Friday (indicate time)	6				
+Bargain Basement	Set up and pricing	Friday (indicate time)	6				
+Bargain Basement	Set up and pricing	Friday (indicate time)	6				
+Bargain Basement	Set up and pricing	Friday (indicate time)	6				
+Bargain Basement	Set up and pricing	Friday (indicate time)	6				
+Bargain Basement	Set up and pricing	Friday (indicate time)	6				
+Bargain Basement	Boothing	Saturday 9:45-11:45	3				
+Bargain Basement	Boothing	Saturday 9:45-11:45	3				
+Bargain Basement	Boothing	Saturday 9:45-11:45	3				
+Bargain Basement	Boothing	Saturday 11:45- 1:45	3				
+Bargain Basement	Boothing	Saturday 11:45- 1:45	3				
+Bargain Basement	Boothing	Saturday 11:45- 1:45	3				
+Bargain Basement	Boothing	Saturday 1:45- 3:45	3				
+Bargain Basement	Boothing	Saturday 1:45- 3:45	3				
+Bargain Basement	Boothing	Saturday 1:45- 3:45	3				
+Blue Table	Boothing	Saturday 9:45-11:45	3				
+Blue Table	Boothing	Saturday 9:45-11:45 (will come a little early) 	3				
+Blue Table	Boothing	Saturday 9:45-11:45	3				
+Blue Table	Boothing	Saturday 11:45 to 12:30	1				
+Blue Table	Boothing	Saturday 11:45 to 1:45					
+Blue Table	Boothing	Saturday 11:45-1:45	1				
+Blue Table	Boothing	Saturday 1:45- 3:45	1				
+Blue Table	Boothing	Saturday 1:30 to 3	1				
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4				
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4				
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4				
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4				
+Book Nook	Sorting	Thursday night sorting	4				
+Book Nook	Sorting	Thursday night (maybe 7 PM)	4				
+Book Nook	Sorting	Thursday night sorting	4				
+Book Nook	Sorting	Thursday night sorting	4				
+Book Nook	Sorting	Thursday night sorting	4				
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Sorting and pricing	Friday sorting and pricing 2-5 PM	8				2-5 PM
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8				
+Book Nook	Boothing	Saturday 9:45-11:45	4				
+Book Nook	Boothing	Saturday 9:45-11:45	4				
+Book Nook	Boothing	Saturday 9:45-11:45	4				
+Book Nook	Boothing	Saturday 9:45-11:45	4				
+Book Nook	Boothing	Saturday 10-12					
+Book Nook	Boothing	Saturday 11:45- 1:45	4				
+Book Nook	Boothing	Saturday 11:45- 1:45	4				
+Book Nook	Boothing	Saturday 11:45- 1:45	4				
+Book Nook	Boothing	Saturday 11:45- 1:45	4				
+Book Nook	Boothing	Saturday 1:45- 3	4				
+Book Nook	Boothing	Saturday 1:45- 3:45	4				
+Book Nook	Boothing	Saturday 1:45- 3:45	4				
+Book Nook	Boothing	Saturday 1:45- 3:45	4	Betsy Leondar-Wright	betsy@classmatters.org		
+Buttery	Set up		2				
+Buttery	Boothing	Saturday 9:45-11:45	2	Rachael Stark	refdesk@world.std.com		
+Buttery	Boothing	Saturday 9:45-11:45	1				
+Buttery	Boothing	Saturday 11:45-1:45	1				
+Buttery	Boothing	Saturday 11:45-1:45	1				
+Buttery	Boothing	Saturday 1:45 to 3:45	1				
+Buttery	Boothing	Saturday 1:45 to 3:45	1				
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4				
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4				
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4				
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4				
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3				
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3				
+Reboots and Rewinds	Boothing	Saturday 9:45-11:30	3				
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3				
+Reboots and Rewinds	Boothing	Saturday 11:45- 1	3				
+Reboots and Rewinds	Boothing	Saturday 11:45- 1:45	3				
+Reboots and Rewinds	Boothing	Saturday 11:45- 1:45	3				
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45					
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45	2				
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45	2				
+Fragile Fancies	Sorting	Thursday 4 to 9 PM	2				
+Fragile Fancies	Sorting	Thursday 4 to 9 PM	2				
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	 from 5:00:00 PM				
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	3				
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	3				
+Fragile Fancies	Boothing	Saturday 9:45-11:45	2				
+Fragile Fancies	Boothing	Saturday 9:45-11:45	2				
+Fragile Fancies	Boothing	Saturday 11:45- 1:45	2				
+Fragile Fancies	Boothing	Saturday 11:45- 1:45	2				
+Fragile Fancies	Boothing	Saturday 1:45- 3:45	2				
+Fragile Fancies	Boothing	Saturday 1:45- 3:45	2				
+Greenery	Set up and pricing	Friday 3-5:30	2				
+Greenery	Set up and pricing	Friday 3-5:30	2				
+Greenery	Set up and pricing	Friday 5:30 to 8	2				
+Greenery	Set up and pricing	Friday 5:30 to 8	2				
+Greenery	Boothing	Saturday 9:45 to 11:45	3				
+Greenery	Boothing	Saturday 9:45 to 11:45	3				
+Greenery	Boothing	Saturday 9:45 to 11:45	3				
+Greenery	Boothing	Saturday 11:45- 1:45	3				
+Greenery	Boothing	Saturday 11:45- 1:45	3				
+Greenery	Boothing	Saturday 11:45- 1:45	3				
+Greenery	Boothing	Saturday 1:45- 3:45	3				
+Greenery	Boothing	Saturday 2-3	3				
+Greenery	Boothing	Saturday 1:45- 3:45	3				
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4				
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4				
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4				
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4				
+Jewelry Box	Sorting and set up	Thursday 5:30-9:00	3				
+Jewelry Box	Sorting and set up	Thursday 5:30-9:00	3				
+Jewelry Box	Sorting and set up	Thursday 4:00-5:30	3				
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4				
+Jewelry Box	Set up and pricing	Friday 12-1:30	4				
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4				
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4				
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3				
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3				
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3				
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3				
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3				
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3				
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5				
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5				
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5				
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5				
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5				
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4				
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4				
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4				
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4				
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4				
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3				
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3				
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3				
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3				
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5				
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5				
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5				
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5				
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5				
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3				
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3				
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3				
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3				
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3				
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3				
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3				
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3				
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3				
+Stitch and Sew	Set up and pricing	Friday	3				
+Stitch and Sew	Set up and pricing	Friday	3				
+Stitch and Sew	Set up and pricing	Friday	3				
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2				
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2				
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2				
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2				
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2				
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2				
+Stitch and Sew	Boothing	Saturday 1:45- 3:45	2				
+Stitch and Sew	Boothing	Saturday 1:45- 3:45	2				
+stitch and Sew	Boothing	saturday 1:45					
+Toyland	Set up and pricing	Thursday 6 to 9	3				
+Toyland	Set up and pricing	Thursday 6 to 9	3				
+Toyland	Set up and pricing	Thursday 6 to 9	3				
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6				
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6				
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6				
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6				
+Toyland	Set up and pricing	Friday 11:30 to 2:30	6				
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6				
+Toyland	Boothing	Saturday 9:45-11:45	4				
+Toyland	Boothing	Saturday 9:45-11:45	4				
+Toyland	Boothing	Saturday 9:45-11:45	4				
+Toyland	Boothing	Saturday 9:45-11:45	4				
+Toyland	Boothing	Saturday 11:45- 1:45	3				
+Toyland	Boothing	Saturday 11:45- 1:45	3				
+Toyland	Boothing	Saturday 11:45- 1:45	3				
+Toyland	Boothing	Saturday 1:45- 3:45	3				
+Toyland	Boothing	Saturday 1:45- 3:45	3				
+Toyland	Boothing	Saturday 1:45- 3:45	3				
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Marie Rad	mrad_eastwick@yahoo.com		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Nancy Crasco	ncrasco@gmail.com		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Dawn Terkla	dawn.terkla@tufts.edu		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Caryn Sandrew	#N/A		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Maggie Clayton	#N/A		
+Tuck Box	Boothing	Saturday 10-12	2				
+Tuck Box	Boothing	Saturday 10-12	2				
+Tuck Box	Boothing	Saturday 10-12	2				
+Tuck Box	Boothing	Saturday 10-3	2				
+Tuck Box	Boothing	Saturday 10-3	2				
+Tuck Box	Boothing	Saturday 10-3	2				
+Tuck Box	Boothing	Saturday 12-2	1				
+Tuck Box	Boothing	Saturday 12:30-2:30	1				
+Tuck Box	Boothing	Saturday 1:30-3	2				
+Tuck Box	Boothing	Saturday 1-3					
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3				
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3				
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3				
+Kitchen	Shopping	Friday 12 to 5 PM	2				
+Kitchen	Shopping	Friday 12 to 5 PM	2				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Friday 5 to 11 PM	8				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep	Saturday 8 to 11 AM	6				
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6				
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6				
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6				
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6				
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6				
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6				
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6				
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6				
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6				
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6				
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6				
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6				
+Kitchen	Dishwashing and clean up	Saturday 10- 11 AM	2				
+Kitchen	Dishwashing and clean up	Saturday 10- 11 AM	2				
+Kitchen	Dishwashing and clean up	Saturday 11AM- 12 PM	2				
+Kitchen	Dishwashing and clean up	Saturday 11AM- 12 PM	2				
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3				
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3				
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3				
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3				
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3				
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3				
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3				
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3				
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3				
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6				
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6				
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6				
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6				
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6				
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6				
+Cafe	Breakfast bar	Saturday 8 to 10 AM	2				
+Cafe	Breakfast bar	Saturday 8 to 10 AM	2				
+Cafe	Servers	Saturday 9:45-11:45					
+Cafe	Servers	Saturday 11 to 12:30	6				
+Cafe	Cashier	Saturday 11 to 12:30	6				
+Cafe	Servers	Saturday 11 to 12:30	6				
+Cafe	Servers	Saturday 11 to 12:30	6				
+Cafe	Servers	Saturday 11 to 12:30	6				
+Cafe	Servers	Saturday 11:30 to 1:30	6				
+Cafe	Servers	Saturday 12:30 to 2	6				
+Cafe	Servers	Saturday 12:30 to 2	6				
+Cafe	Servers	Saturday 12:30 to 2	6				
+Cafe	Servers	Saturday 12:30 to 2	6				
+Cafe	Servers	Saturday 12:30 to 2	6				
+Cafe	Servers	Saturday 12:30 to 2	6				
+Cafe	Drinks table	Saturday 11 to 12:30	2				
+Cafe	Drinks table	Saturday 11 to 12:30	2				
+Cafe	Drinks table	Saturday 12:30 to 2	2				
+Cafe	Drinks table	Saturday 12:30 to 2	2				
+Cafe	Floater	Saturday 11 to 3:00	1				
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4				
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4				
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4				
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4				
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4				
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4				
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4				
+Cafe	Cashier	Saturday 11 to 12:30	2				
+Cafe	Cashier	Saturday 11 to 12:30	2				
+Cafe	Cashier	Saturday 12:30 to 2	2				
+Cafe	Cashier	Saturday 12:30 to 2	2				
+Cafe	Break down	Saturday 3 to 4	6				
+Cafe	Break down	Saturday 3 to 4	6				
+Cafe	Break down	Saturday 3 to 4	6				
+Cafe	Break down	Saturday 3 to 4	6				
+Cafe	Break down	Saturday 3 to 4	6				
+Cafe	Break down	Saturday 3 to 4	6				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8				
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4				
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4				
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4				
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8				
+Thursday set up	Supper coordinator	Thursday 5:30 to 7	2				
+Thursday set up	Supper coordinator	Thursday 5:30 to 7	2				
+Friday set up help	Floater	10 AM to 10 PM	3				
+Friday set up help	Floater	10 AM to 10 PM	3				
+Friday set up help	Floater	10 AM to 10 PM	3				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Decorate vestry	Decorator	Friday 7 to 9	8				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Decorate vestry	Decorator	Friday 6 to 9	8				
+Friday set up	Supper coordinator	Friday 5:30 to 7	2				
+Friday set up	Supper coordinator	Friday 5:30 to 7	2				
+Saturday- Info/Membership Table	Boothing	Saturday 9:30 to 10:45	1				
+Saturday- Info/Membership Table	Boothing	Saturday 10:30 to 11:45	1				
+Saturday- Info/Membership Table	Boothing	Saturday 11:30 to 12:45	1				
+Saturday- Info/Membership Table	Boothing	Saturday 12:30 to 1:45	1				
+Saturday- Info/Membership Table	Boothing	Saturday 1:30 to 2:45	1				
+Saturday- Info/Membership Table	Boothing	Saturday 2:30 to 3:15	1				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 1:45 to 3:45	2				
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 1:45 to 3:45	2				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3				
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Saturday break down	Break down	Saturday 3 to 4:30	12				
+Quilt raffle	Ticket sales	30-Oct	1				
+Quilt raffle	Ticket sales	6-Nov	1				
+Quilt raffle	Ticket sales	13-Nov	1				
+Quilt raffle	Set up	Saturday, November 18	1				
+Quilt raffle	Ticket sales	Saturday 9:30 to 11 ( Susan will there)	1				
+Quilt raffle	Ticket sales	Saturday 11 to 1	1				
+Quilt raffle	Ticket sales	Saturday 1 to 3	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any	1				
+Buttery	Baking	Any					
+Buttery	Baking	Any					
+Buttery	Baking	Any					
+	baking w Carolyn	Fri evening 					

@@ -1,0 +1,420 @@
+Booth	Activity	Slot	Requested slots	Name	Email	Phone	Comments
+Attic Treasures	Thursday set up	Thursday evening	3	Katja Baker	katjabakerpsyd@gmail.com	781-910-8617	
+Attic Treasures	Thursday set up	Thursday evening	3	Joyce Thompson	jthomkiwi@aol.com		
+Attic Treasures	Thursday set up	Thursday evening	3	Michelle Deakin	mbdeakin@rcn.com		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Debbie Barnes	debbiefnp@gmail.com	781-641-3567	
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5		#N/A	#N/A	
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Sue Costello	suzannec40@yahoo.com	781-643-8221	
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Kathy Kemp	kkemp367@gmail.com	339-368-0349	
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Amy Hadley	hadley12@verizon.net	857-998-0747	
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Sue Costello	suzannec40@yahoo.com	781-643-8221	
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Amy Hadley	hadley12@verizon.net	857-998-0747	
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Kathy Kemp	kkemp367@gmail.com	339-368-0349	
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Magali Olander	magaliolander @gmail.com	#N/A	
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Nicole Baker	nicolina.baker@gmail.com	781-648-1147	
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Bob Fowkes	robtfowkes@gmail.com	781 777-2969	
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Sara Whitford	sdonwhit@aol.com		
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Maryglenn Vincens	vincens@mac.com	617-792-9710	
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4	Katja Baker	katjabakerpsyd@gmail.com	781-910-8617	
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4	Michelle Deakin	mbdeakin@rcn.com		
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4		#N/A	#N/A	
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4		#N/A	#N/A	
+Artisan Table	Set up and pricing	Friday	2	Erica Licea-Kane	erica.licea.kane@verizon.net	7617-901-5948	
+Artisan Table	Set up and pricing	Friday	2	Maureen Dolan	maureendolan@verizon.net	781-643-7401	
+Artisan Table	Boothing	Saturday 9:45-11:45	2	Erica Licea-Kane	erica.licea.kane@verizon.net	7617-901-5948	
+Artisan Table	Boothing	Saturday 9:45-11:45	2	Maureen Dolan	maureendolan@verizon.net	781-643-7401	
+Artisan Table	Boothing	Saturday 11:45-1:45	2	Erica Licea-Kane	erica.licea.kane@verizon.net	7617-901-5948	
+Artisan Table	Boothing	Saturday 11:45-1:45	2	Maureen Dolan	maureendolan@verizon.net	781-643-7401	
+Artisan Table	Boothing	Saturday 11:45-1:45		Kay Snowden	kaysnowden1@gmail.com		
+Artisan Table	Boothing	Saturday 1:45- 3:45	2	Maggie Schramm		#N/A	
+Artisan Table	Boothing	Saturday 1:45- 3:45	2	Erica Licea-Kane	erica.licea.kane@verizon.net	7617-901-5948	
+Artisan Table	Boothing	Saturday 1:45- 3:45	2	Maureen Dolan	maureendolan@verizon.net	781-643-7401	
+Art Gallery	Thursday set up	Thursday 5:30 to 8	2		#N/A	#N/A	
+Art Gallery	Thursday set up	Thursday 5:30 to 8	2		#N/A	#N/A	
+Art Gallery	Set up and pricing	Friday (indicate time)	4	Michael MacPhail	mmacphail109@gmail.com	617-999-9594	
+Art Gallery	Set up and pricing	Friday (indicate time)	4	Katharine MacPhail	macphailkat@gmail.com	617-489-8535	
+Art Gallery	Set up and pricing	Friday (indicate time)	4		#N/A	#N/A	
+Art Gallery	Set up and pricing	Friday (indicate time)	4		#N/A	#N/A	
+Art Gallery	Boothing	Saturday 9:45- 11:45	2	Michael MacPhail	mmacphail109@gmail.com	617-999-9594	
+Art Gallery	Boothing	Saturday 9:45- 11:45	2	Susan Marsh	susanmarsh@verizon.net		
+Art Gallery	Boothing	Saturday 11:45-1:45	2	Michael MacPhail	mmacphail109@gmail.com	617-999-9594	
+Art Gallery	Boothing	Saturday 11:45-1:45	2		#N/A	#N/A	
+Art Gallery	Boothing	Saturday 1:45- 3:45	2	Michael MacPhail	mmacphail109@gmail.com	617-999-9594	
+Art Gallery	Boothing	Saturday 1:45- 3:45	2		#N/A	#N/A	
+Bargain Basement	Sorting and set up	Thursday after 6PM	4		#N/A	#N/A	
+Bargain Basement	Sorting and set up	Thursday after 6PM	4		#N/A	#N/A	
+Bargain Basement	Sorting and set up	Thursday after 6PM	4		#N/A	#N/A	
+Bargain Basement	Sorting and set up	Thursday after 6PM	4		#N/A	#N/A	
+Bargain Basement	Set up and pricing	Friday (indicate time)	6	Janet Wilder	janetwilder@icloud.com	617-840-8957	
+Bargain Basement	Set up and pricing	Friday (indicate time)	6	Mary Fusoni	mary.fusoni@gmail.com	781-646-3445	
+Bargain Basement	Set up and pricing	Friday (indicate time)	6		#N/A	#N/A	
+Bargain Basement	Set up and pricing	Friday (indicate time)	6		#N/A	#N/A	
+Bargain Basement	Set up and pricing	Friday (indicate time)	6		#N/A	#N/A	
+Bargain Basement	Set up and pricing	Friday (indicate time)	6		#N/A	#N/A	
+Bargain Basement	Boothing	Saturday 9:45-11:45	3	Lois Fine	lois.wainstock.fine@gmail.com	617-733-7293	
+Bargain Basement	Boothing	Saturday 9:45-11:45	3	Lynne Levine	lynnerlevine@gmail.com	617-501-5688	
+Bargain Basement	Boothing	Saturday 9:45-11:45	3		#N/A	#N/A	
+Bargain Basement	Boothing	Saturday 11:45- 1:45	3	Jeff Roberts	jeffreyroberts54@gmail.com		
+Bargain Basement	Boothing	Saturday 11:45- 1:45	3		#N/A	#N/A	
+Bargain Basement	Boothing	Saturday 11:45- 1:45	3		#N/A	#N/A	
+Bargain Basement	Boothing	Saturday 1:45- 3:45	3	Lida Junghans	lida.junghans@gmail.com	617-484-2613	
+Bargain Basement	Boothing	Saturday 1:45- 3:45	3		#N/A	#N/A	
+Bargain Basement	Boothing	Saturday 1:45- 3:45	3		#N/A	#N/A	
+Blue Table	Boothing	Saturday 9:45-11:45	3	Sara Galantowicz	saragalantowicz@gmail.com	781-956-9646	
+Blue Table	Boothing	Saturday 9:45-11:45 (will come a little early) 	3	Kit Hayes	Kithayes5@gmail.com	781-648-0373	
+Blue Table	Boothing	Saturday 9:45-11:45	3	Mary Fusoni	mary.fusoni@gmail.com	781-646-3445	
+Blue Table	Boothing	Saturday 11:45 to 12:30	1	Ellen Leigh	Ellen.leigh3@gmail.com	9175094191	
+Blue Table	Boothing	Saturday 11:45 to 1:45		Sara Galantowicz	saragalantowicz@gmail.com		
+Blue Table	Boothing	Saturday 11:45-1:45	1	Stephanie Franzosa	srfranzosa@gmail.com		
+Blue Table	Boothing	Saturday 1:45- 3:45	1	Sara Galantowicz	saragalantowicz@gmail.com		
+Blue Table	Boothing	Saturday 1:30 to 3	1	Stephanie Franzosa	srfranzosa@gmail.com		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4		#N/A		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4	David Desjardins	davidgdesjardins@gmail.com		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4	Pamela Baldwin	theotherpamela@gmail.com		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4	Pamela Baldwin	theotherpamela@gmail.com		
+Book Nook	Sorting	Thursday night (maybe 7 PM)	4	Paul Franzosa	pfranzosa@gmail.com		
+Book Nook	Sorting	Thursday night sorting	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4		#N/A		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Paul Franzosa	pfranzosa@gmail.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Jennifer Davis-Kay	jdavis.kay@rcn.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Maryglenn Vincens	vincens@mac.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 2-5 PM	8	Paul Howard	pgh@alum.mit.edu		2-5 PM
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Sharon Wilke	sharon_wilke@verizon.net		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Cathie DeJardins	cathie.desjardins2@verizon.net		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8		#N/A		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8		#N/A		
+Book Nook	Boothing	Saturday 9:45-11:45	4	Jennifer Davis-Kay	jdavis.kay@rcn.com		
+Book Nook	Boothing	Saturday 9:45-11:45	4	Sharon Wilke	sharon_wilke@verizon.net		
+Book Nook	Boothing	Saturday 9:45-11:45	4	David Desjardins	davidgdesjardins@gmail.com		
+Book Nook	Boothing	Saturday 9:45-11:45	4	Genevieve Baldwin	theotherpamela@gmail.com		
+Book Nook	Boothing	Saturday 10-12		Elizabeth Terry			
+Book Nook	Boothing	Saturday 11:45- 1:45	4	Robbie Rinearson	robbierinearson@gmail.com		
+Book Nook	Boothing	Saturday 11:45- 1:45	4	David Desjardins	davidgdesjardins@gmail.com		
+Book Nook	Boothing	Saturday 11:45- 1:45	4	Cathie DeJardins	cathie.desjardins2@verizon.net		
+Book Nook	Boothing	Saturday 11:45- 1:45	4	Pamela Baldwin	theotherpamela@gmail.com		
+Book Nook	Boothing	Saturday 1:45- 3	4	Betsy Leondar-Wright	betsy@classmatters.org		
+Book Nook	Boothing	Saturday 1:45- 3:45	4	Glenn Koenig	gck@dancing-data.com		
+Book Nook	Boothing	Saturday 1:45- 3:45	4	Pamela Baldwin	theotherpamela@gmail.com		
+Book Nook	Boothing	Saturday 1:45- 3:45	4		#N/A		
+Buttery	Set up		2		#N/A		
+Buttery	Boothing	Saturday 9:45-11:45	2	Kate Tranquada	ktranq@verizon.net		
+Buttery	Boothing	Saturday 9:45-11:45	1	Rachael Stark	refdesk@world.std.com		
+Buttery	Boothing	Saturday 11:45-1:45	1	David D'Antonio	dda@dantonio.net		
+Buttery	Boothing	Saturday 11:45-1:45	1	Kathy Greene	greka01@comcast.net		
+Buttery	Boothing	Saturday 1:45 to 3:45	1	Arleen Kulin	akulin2003@yahoo.com		
+Buttery	Boothing	Saturday 1:45 to 3:45	1	Christina Cangemi	cmcangemi36@gmail.com		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4	Greg Ruccio	gregruccio@yahoo.com		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4	Frank Snyder Di cesare	frank@eggmoon.org		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4	Jason Merrill	jason.merrill@gmail.com		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4		#N/A		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3	Greg Ruccio	gregruccio@yahoo.com		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3	Frank Snyder Di Cesare	frank@eggmoon.org		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:30	3		#N/A		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3		#N/A		
+Reboots and Rewinds	Boothing	Saturday 11:45- 1	3	Cat Davey	citcat20@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 11:45- 1:45	3	Greg Ruccio	gregruccio@yahoo.com		
+Reboots and Rewinds	Boothing	Saturday 11:45- 1:45	3	Frank Snyder Di Cesare	frank@eggmoon.org		
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45		Ted Live	ted.live@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45	2	Greg Ruccio	gregruccio@yahoo.com		
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45	2	Frank Snyder Di Cesare	frank@eggmoon.org		
+Fragile Fancies	Sorting	Thursday 4 to 9 PM	2	Joyce Thompson	jthomkiwi@aol.com	7816463628	
+Fragile Fancies	Sorting	Thursday 4 to 9 PM	2	Anna Donavan	#N/A		
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	 from 5:00:00 PM	Nina Duncan	#N/A		
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	3	Anne Goodwin	annegoodwin@comcast.net		
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	3	Jen Birenbach	jaapots@yahoo.com		
+Fragile Fancies	Boothing	Saturday 9:45-11:45	2	Nina Duncan	nlduncan23@gmail.com	617-484-2257	
+Fragile Fancies	Boothing	Saturday 9:45-11:45	2	Joanne Cullinane	cullinanejoanne@gmail.com	617-583-3906	
+Fragile Fancies	Boothing	Saturday 11:45- 1:45	2		#N/A		
+Fragile Fancies	Boothing	Saturday 11:45- 1:45	2	Joyce Thompson	jthomkiwi@aol.com	7816463628	
+Fragile Fancies	Boothing	Saturday 1:45- 3:45	2		#N/A	#N/A	
+Fragile Fancies	Boothing	Saturday 1:45- 3:45	2		#N/A	#N/A	
+Greenery	Set up and pricing	Friday 3-5:30	2	Jenise Aminoff	jenise@jenise.com	617-804-6479	
+Greenery	Set up and pricing	Friday 3-5:30	2	Janis Fleishman	jfleishm@gmail.com	617-823-0027	
+Greenery	Set up and pricing	Friday 5:30 to 8	2		#N/A	#N/A	
+Greenery	Set up and pricing	Friday 5:30 to 8	2		#N/A	#N/A	
+Greenery	Boothing	Saturday 9:45 to 11:45	3	Julie Dunn	jbdunn.99@gmail.com	781-424-2090	
+Greenery	Boothing	Saturday 9:45 to 11:45	3	Cathy Modica	cmodica526@gmail.com	781-354-1190	
+Greenery	Boothing	Saturday 9:45 to 11:45	3	Pat Magee	plimag@comcast.net	781-648-5117	
+Greenery	Boothing	Saturday 11:45- 1:45	3	Peggy Gardiner	peggy.gardiner@gmail.com		
+Greenery	Boothing	Saturday 11:45- 1:45	3	Loren Gomez	lorengomez@comcast.net	617-966-8863	
+Greenery	Boothing	Saturday 11:45- 1:45	3		#N/A	#N/A	
+Greenery	Boothing	Saturday 1:45- 3:45	3	Kit Hayes	Kithayes5@gmail.com	781-648-0373	
+Greenery	Boothing	Saturday 2-3	3	Lynn Rosenbaum	lynnarosenbaum@gmail.com		
+Greenery	Boothing	Saturday 1:45- 3:45	3		#N/A	#N/A	
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A	#N/A	
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A	#N/A	
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A	#N/A	
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A	#N/A	
+Jewelry Box	Sorting and set up	Thursday 5:30-9:00	3	Sharen Leonard	sharen.leonard@verizon.net	781-641-2326	
+Jewelry Box	Sorting and set up	Thursday 5:30-9:00	3	Sarah Short	sarah.mshort@gmail.com	617-515-6282	
+Jewelry Box	Sorting and set up	Thursday 4:00-5:30	3	Doris Orellana	octubre80@hotmail.com	781-859-8335	
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4		#N/A	#N/A	
+Jewelry Box	Set up and pricing	Friday 12-1:30	4		#N/A	#N/A	
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4	Sharen Leonard	sharen.leonard@verizon.net	781-641-2326	
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4	Patience Terry	patience_terry@yahoo.com	781-646-5315	
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3	Sarah Short	sarah.mshort@gmail.com	617-515-6282	
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3	Doris Orellana	octubre80@hotmail.com	781-859-8335	
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3		#N/A	#N/A	
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3	Amy Anderson	aehanderson@gmail.com	781-801-0303	
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3	Lyn Fulton-John	fultol12@gmail.com		
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3	Sarah Short	sarah.mshort@gmail.com	617-515-6282	
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Patience Terry	patience_terry@yahoo.com	781-646-5315	
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Peggy Gardiner	peggy.gardiner@gmail.com		
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Sarah Short	sarah.mshort@gmail.com	617-515-6282	
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Doris Orellana	octubre80@hotmail.com	781-859-8335	
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Sharen Leonard	sharen.leonard@verizon.net	781-641-2326	
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Sarah Short	sarah.mshort@gmail.com	617-515-6282	
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Doris Orellana	octubre80@hotmail.com	781-859-8335	
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Emily Randall	emily.p.randall@gmail.com	617-429-2019	
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Lyn Fulton-John	fultol12@gmail.com		
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Sharen Leonard	sharen.leonard@verizon.net	781-641-2326	
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3	Sarah Short	sarah.mshort@gmail.com	617-515-6282	
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3	Doris Orellana	octubre80@hotmail.com	781-859-8335	
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3	Lyn Fulton-John	fultol12@gmail.com		
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3	Sharen Leonard	sharen.leonard@verizon.net	781-641-2326	
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5	Holly Loring	hmuse23@yahoo.com	781-526-6631	
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A	#N/A	
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A	#N/A	
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A	#N/A	
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3	Holly Loring	hmuse23@yahoo.com	781-526-6631	
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3	Norma Floyd	normafloyd@juno.com		
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3		#N/A	#N/A	
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3		#N/A	#N/A	
+Stitch and Sew	Set up and pricing	Friday	3	Marilyn Jackson	marilyn448@gmail.com	781-316-1686	
+Stitch and Sew	Set up and pricing	Friday	3	Jean Nagle	jsn0708@gmail.com	781-646-5352	
+Stitch and Sew	Set up and pricing	Friday	3		#N/A	#N/A	
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2	Barbara McCauley	jbmccauley@comcast.net	781-777-1595	
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2	Marilyn Jackson	marilyn448@gmail.com	781-646-5352	
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2		#N/A		
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2	Ann Abbott	Annabbott5@gmail.com	781-646-1775	
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2	Gwen Hooper	gwen.hooper@comcast.net	781-643-9081	
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2	Liz Blumenthal	liz@coachlizblu.com		
+Stitch and Sew	Boothing	Saturday 1:45- 3:45	2	Bea Shriver	b.shriver@comcast.net 		
+Stitch and Sew	Boothing	Saturday 1:45- 3:45	2		#N/A	#N/A	
+stitch and Sew	Boothing	saturday 1:45		Jean Nagle	jsn0708@gmail.com	#REF!	
+Toyland	Set up and pricing	Thursday 6 to 9	3	Amy Speare	amyhspeare@gmail.com		
+Toyland	Set up and pricing	Thursday 6 to 9	3	Phil Speare	pspeare@verizon.net 		
+Toyland	Set up and pricing	Thursday 6 to 9	3		#N/A	#N/A	
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A	#N/A	
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A	#N/A	
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A	#N/A	
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A	#N/A	
+Toyland	Set up and pricing	Friday 11:30 to 2:30	6		#N/A	#N/A	
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6	Dave Deakin	deakin@rcn.com		
+Toyland	Boothing	Saturday 9:45-11:45	4	Lou Eckart	loueckart@comcast.net	781-223-0923	
+Toyland	Boothing	Saturday 9:45-11:45	4	Steve McMullin	stevemcmullin2@gmail.com	617-909-6323	
+Toyland	Boothing	Saturday 9:45-11:45	4	Carolyn White	cawhitema@gmail.com	617-417-7177	
+Toyland	Boothing	Saturday 9:45-11:45	4		#N/A	#N/A	
+Toyland	Boothing	Saturday 11:45- 1:45	3	Steve McMullin	stevemcmullin2@gmail.com	617-909-6323	
+Toyland	Boothing	Saturday 11:45- 1:45	3	Dave Deakin	deakin@rcn.com		
+Toyland	Boothing	Saturday 11:45- 1:45	3		#N/A	#N/A	
+Toyland	Boothing	Saturday 1:45- 3:45	3	Bonny Saulnier	#N/A	#N/A	
+Toyland	Boothing	Saturday 1:45- 3:45	3	Debbie Clark	debbieclarke624@gmail.com		
+Toyland	Boothing	Saturday 1:45- 3:45	3	Jenifer Bosco	jmbosco@gmail.com	339-222-3967	
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4		#N/A	#N/A	
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4		#N/A	#N/A	
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4		#N/A	#N/A	
+Tuck Box	Set up and pricing	Friday 11:30 -2:30	4		#N/A	#N/A	
+Tuck Box	Boothing	Saturday 10-12	2	Sherry Greene	shergree@verizon.net		
+Tuck Box	Boothing	Saturday 10-12	2	Dorothy May	doromay1944@gmail.com		
+Tuck Box	Boothing	Saturday 10-12	2	Jean Rosenberg	#N/A	#N/A	
+Tuck Box	Boothing	Saturday 10-3	2	Marie Rad	mrad_eastwick@yahoo.com	339-368-0146	
+Tuck Box	Boothing	Saturday 10-3	2	Nancy Crasco	ncrasco@gmail.com		
+Tuck Box	Boothing	Saturday 10-3	2	Dawn Terkla	dawn.terkla@tufts.edu		
+Tuck Box	Boothing	Saturday 12-2	1	Elizabeth Dyer	elizabethdyer@verizon.net		
+Tuck Box	Boothing	Saturday 12:30-2:30	1	Cindy Stinson	stinson.cynthia@gmail.com	781-354-6820	
+Tuck Box	Boothing	Saturday 1:30-3	2	Debby Lewis	debnlewis@gmail.com	781-539-2706	
+Tuck Box	Boothing	Saturday 1-3		Caryn Sandrew			
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3		#N/A	#N/A	
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3		#N/A	#N/A	
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3		#N/A	#N/A	
+Kitchen	Shopping	Friday 12 to 5 PM	2	Josh Stillerman	jas@psfc.mit.edu		
+Kitchen	Shopping	Friday 12 to 5 PM	2		#N/A	#N/A	
+Kitchen	Prep	Friday 5 to 11 PM	8	Larry Slotnick	ljslotnick@yahoo.com	617-596-8617	
+Kitchen	Prep	Friday 5 to 11 PM	8	Kurt Vanderpile	kvanderpile@comcast.net	617-283-7382	
+Kitchen	Prep	Friday 5 to 11 PM	8	Marie Meteer	mmeteer@mac.com	781-718-2109	
+Kitchen	Prep	Friday 5 to 11 PM	8	Scott Jones	scojoe25@gmail.com		
+Kitchen	Prep	Friday 5 to 11 PM	8	Josh Stillerman	jas@psfc.mit.edu		
+Kitchen	Prep	Friday 5 to 11 PM	8	David Dreyfus	david@databasepub.com	978-686-7615	
+Kitchen	Prep	Friday 5 to 11 PM	8	David Klingsberg	davidklingsberg@yahoo.com	781-641-1132	
+Kitchen	Prep	Friday 5 to 11 PM	8		#N/A	#N/A	
+Kitchen	Prep	Saturday 8 to 11 AM	6	Elliot Trilling	elliot.trilling@gmail.com	781-648-1851	
+Kitchen	Prep	Saturday 8 to 11 AM	6	Marie Meteer	mmeteer@mac.com	781-718-2109	
+Kitchen	Prep	Saturday 8 to 11 AM	6	Scott Jones	scojoe25@gmail.com		
+Kitchen	Prep	Saturday 8 to 11 AM	6	Josh Stillerman	jas@psfc.mit.edu		
+Kitchen	Prep	Saturday 8 to 11 AM	6	Emily Dibble	dibble2008@gmail.com		
+Kitchen	Prep	Saturday 8 to 11 AM	6	David Klingsberg	davidklingsberg@yahoo.com	781-641-1132	
+Kitchen	Prep	Saturday 8 to 11 AM	6	David Dreyfus	david@databasepub.com	978-686-7615	
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	Marie Meteer	mmeteer@mac.com	781-718-2109	
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	Elliot Trilling	elliot.trilling@gmail.com	781-648-1851	
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	Scott Jones	scojoe25@gmail.com		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	Josh Stillerman	jas@psfc.mit.edu		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	David Klingsberg	davidklingsberg@yahoo.com	781-641-1132	
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	David Dreyfus	david@databasepub.com	978-686-7615	
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6	Marie Meteer	mmeteer@mac.com	781-718-2109	
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6	Elliot Trilling	elliot.trilling@gmail.com	781-648-1851	
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6	Scott Jones	scojoe25@gmail.com		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6	Josh Stillerman	jas@psfc.mit.edu		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6	Dale Kutyna	kutyna@icloud.com		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6	David Klingsberg	davidklingsberg@yahoo.com	781-641-1132	
+Kitchen	Dishwashing and clean up	Saturday 10- 11 AM	2		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 10- 11 AM	2		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 11AM- 12 PM	2		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 11AM- 12 PM	2		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3	Alan Linov	alanlinov1@gmail.com	781-646-9222	
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3		#N/A	#N/A	
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3	Alan Linov	alanlinov1@gmail.com	781-646-9222	
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6	Maggie Carey	margaret.carey13@gmail.com	857-998-8359	
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6	Kate Casa	katecasa2@gmail.com		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A	#N/A	
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A	#N/A	
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A	#N/A	
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A	#N/A	
+Cafe	Breakfast bar	Saturday 8 to 10 AM	2		#N/A	#N/A	
+Cafe	Breakfast bar	Saturday 8 to 10 AM	2		#N/A	#N/A	
+Cafe	Servers	Saturday 9:45-11:45		Pamela Powell	mermaidpam@yahoo.com		
+Cafe	Servers	Saturday 11 to 12:30	6	Joji Ruccio	jlr246@yahoo.com	781-816-3439	
+Cafe	Cashier	Saturday 11 to 12:30	6	Anne Matheis	annmathis@yahoo.com	781-646-8307	
+Cafe	Servers	Saturday 11 to 12:30	6	Claire Kitzmiller	claire.ekitzmiller@gmail.com	339-368-9673	
+Cafe	Servers	Saturday 11 to 12:30	6	Lily Snyder Di Cesare	teenypomegranate@gmail.com	781-460-3802	
+Cafe	Servers	Saturday 11 to 12:30	6		#N/A	#N/A	
+Cafe	Servers	Saturday 11:30 to 1:30	6	Jessica Farman	jfarmot@gmail.com	617 331 4605	
+Cafe	Servers	Saturday 12:30 to 2	6	Joji Ruccio	jlr246@yahoo.com	781-816-3439	
+Cafe	Servers	Saturday 12:30 to 2	6	Claire Kitzmiller	claire.ekitzmiller@gmail.com	339-368-9673	
+Cafe	Servers	Saturday 12:30 to 2	6	Lily Snyder Di Cesare	teenypomegranate@gmail.com	781-460-3802	
+Cafe	Servers	Saturday 12:30 to 2	6	Maya Gomez	mayagomezcoultas@gmail.com		
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A	#N/A	
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A	#N/A	
+Cafe	Drinks table	Saturday 11 to 12:30	2		#N/A	#N/A	
+Cafe	Drinks table	Saturday 11 to 12:30	2		#N/A	#N/A	
+Cafe	Drinks table	Saturday 12:30 to 2	2		#N/A	#N/A	
+Cafe	Drinks table	Saturday 12:30 to 2	2		#N/A	#N/A	
+Cafe	Floater	Saturday 11 to 3:00	1		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A	#N/A	
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A	#N/A	
+Cafe	Cashier	Saturday 11 to 12:30	2		#N/A	#N/A	
+Cafe	Cashier	Saturday 11 to 12:30	2		#N/A	#N/A	
+Cafe	Cashier	Saturday 12:30 to 2	2		#N/A	#N/A	
+Cafe	Cashier	Saturday 12:30 to 2	2		#N/A	#N/A	
+Cafe	Break down	Saturday 3 to 4	6		#N/A	#N/A	
+Cafe	Break down	Saturday 3 to 4	6		#N/A	#N/A	
+Cafe	Break down	Saturday 3 to 4	6		#N/A	#N/A	
+Cafe	Break down	Saturday 3 to 4	6		#N/A	#N/A	
+Cafe	Break down	Saturday 3 to 4	6		#N/A	#N/A	
+Cafe	Break down	Saturday 3 to 4	6		#N/A	#N/A	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A	#N/A	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8	Thomas Kitzmiller	thomas.mkitzmiller@gmail.com	339-368-9672	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8	Michael Varnum	#N/A	#N/A	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8	Aaron Kitzmiller	aaron.kitzmiller@gmail.com	339-368-0656	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8	Bob Varnum	rvarnum@rcn.com		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A	#N/A	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A	#N/A	
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A	#N/A	
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4	Bob Varnum	rvarnum@rcn.com		
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4	Thomas Kitzmiller	thomas.mkitzmiller@gmail.com	339-368-9672	
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4	Michael Varnum	#N/A	#N/A	
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4	Aaron Kitzmiller	aaron.kitzmiller@gmail.com	339-368-0656	
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	Milo Jones	scojoe25@gmail.com		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	Maggie MacPhail	magmac1109@gmail.com	781-488-8668	
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	Lydia Powell	snowangelydia@gmail.com		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	Adrian Trilling	#N/A	#N/A	
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A	#N/A	
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A	#N/A	
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A	#N/A	
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A	#N/A	
+Thursday set up	Supper coordinator	Thursday 5:30 to 7	2		#N/A	#N/A	
+Thursday set up	Supper coordinator	Thursday 5:30 to 7	2		#N/A	#N/A	
+Friday set up help	Floater	10 AM to 10 PM	3		#N/A	#N/A	
+Friday set up help	Floater	10 AM to 10 PM	3		#N/A	#N/A	
+Friday set up help	Floater	10 AM to 10 PM	3		#N/A	#N/A	
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A	#N/A	
+Decorate vestry	Decorator	Friday 6 to 9	8	Joji Ruccio	jlr246@yahoo.com	781-816-3439	
+Decorate vestry	Decorator	Friday 6 to 9	8	Claire Kitzmiller	claire.ekitzmiller@gmail.com	339-368-9673	
+Decorate vestry	Decorator	Friday 6 to 9	8	Milo Jones	scojoe25@gmail.com		
+Decorate vestry	Decorator	Friday 7 to 9	8	Lydia Powell	snowangelydia@gmail.com		
+Decorate vestry	Decorator	Friday 6 to 9	8	Lucy Voges	voges.lucy@gmail.com		
+Decorate vestry	Decorator	Friday 6 to 9	8	Kian Silva	acouch2003@gmail.com		
+Decorate vestry	Decorator	Friday 6 to 9	8	Milo M?	#N/A	#N/A	
+Friday set up	Supper coordinator	Friday 5:30 to 7	2		#N/A	#N/A	
+Friday set up	Supper coordinator	Friday 5:30 to 7	2		#N/A	#N/A	
+Saturday- Info/Membership Table	Boothing	Saturday 9:30 to 10:45	1		#N/A	#N/A	
+Saturday- Info/Membership Table	Boothing	Saturday 10:30 to 11:45	1		#N/A	#N/A	
+Saturday- Info/Membership Table	Boothing	Saturday 11:30 to 12:45	1		#N/A	#N/A	
+Saturday- Info/Membership Table	Boothing	Saturday 12:30 to 1:45	1	Barbara McCauley	jbmccauley@comcast.net	781-777-1595	
+Saturday- Info/Membership Table	Boothing	Saturday 1:30 to 2:45	1		#N/A	#N/A	
+Saturday- Info/Membership Table	Boothing	Saturday 2:30 to 3:15	1		#N/A	#N/A	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4	Bonnie Zimmer	bonnie.zimmer@gmail.com	617-530-0360	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4	Jenny Kramer	jennykramer@verizon.net		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4	Melina Salerno	prijon88@hotmail.com		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4		#N/A	#N/A	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4	Marilyn Downs	downs.marilyn@gmail.com	781-640-1649	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4	Bonnie Zimmer	bonnie.zimmer@gmail.com	617-530-0360	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4		#N/A	#N/A	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4		#N/A	#N/A	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 1:45 to 3:45	2	Bonnie Zimmer	bonnie.zimmer@gmail.com	617-530-0360	
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 1:45 to 3:45	2		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4	PJ Gardiner	peachg1@gmail.com	781-646-6849	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3	PJ Gardiner	peachg1@gmail.com	781-646-6849	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3		#N/A	#N/A	
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3		#N/A	#N/A	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Elliot Trilling	elliot.trilling@gmail.com	781-648-1851	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Maryglenn Vincens	vincens@mac.com	617-792-9710	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Phil Lewis	lewisbg@gmail.com	781-643-4010	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Lou Fiscarelli	louis.fiscarelli@gmail.com	781-648-1851	
+Saturday break down	Break down	Saturday 3 to 4:30	12	John Galantowicz	galantowicz@gmail.com	617-335-8319	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Cole Speare	cspeare2021@spyponders.com	781-646-5417	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Joji Ruccio	jlr246@yahoo.com	781-816-3439	
+Saturday break down	Break down	Saturday 3 to 4:30	12	Calvin Olsen	colsen2020@spyponders.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Rob Meier	robmmeier@gmail.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Tim Greene	greka01@comcast.net		
+Saturday break down	Break down	Saturday 3 to 4:30	12		#N/A	#N/A	
+Saturday break down	Break down	Saturday 3 to 4:30	12		#N/A	#N/A	
+Quilt raffle	Ticket sales	30-Oct	1		#N/A	#N/A	
+Quilt raffle	Ticket sales	6-Nov	1		#N/A	#N/A	
+Quilt raffle	Ticket sales	13-Nov	1		#N/A	#N/A	
+Quilt raffle	Set up	Saturday, November 18	1	Susan Moore	susanmoore1@gmail.com	339-222-7922	
+Quilt raffle	Ticket sales	Saturday 9:30 to 11 ( Susan will there)	1	Susan Moore	susanmoore1@gmail.com	339-222-7922	
+Quilt raffle	Ticket sales	Saturday 11 to 1	1	Susan Moore	susanmoore1@gmail.com	339-222-7922	
+Quilt raffle	Ticket sales	Saturday 1 to 3	1	Susan Moore	susanmoore1@gmail.com	339-222-7922	
+Buttery	Baking	Any	1	Arleen Kulin	akulin2003@yahoo.com		
+Buttery	Baking	Any	1	Mary Fusoni	mary.fusoni@gmail.com		
+Buttery	Baking	Any	1	Barbara McCauley	jbmccauley@comcast.net		
+Buttery	Baking	Any	1	Cindy Tavilla	cstavilla@gmail.com		
+Buttery	Baking	Any	1	Bonnie Zimmer	bonnie.zimmer@gmail.com		
+Buttery	Baking	Any	1	MaryLou Solliday	sollid@aol.com		
+Buttery	Baking	Any	1	Julie Garry	jlgarry@verizon.net		
+Buttery	Baking	Any	1	Carol Svenson	csvenson2@gmail.com		
+Buttery	Baking	Any	1	Jenise Aminoff	jenise@jenise.com		
+Buttery	Baking	Any	1	Clara Mapel	#N/A		
+Buttery	Baking	Any	1	Sue Mapel	#N/A		
+Buttery	Baking	Any	1	Margaret Lynch	#N/A		
+Buttery	Baking	Any					
+Buttery	Baking	Any					
+Buttery	Baking	Any					
+	baking w Carolyn	Fri evening 		Marylou Solliday	sollid@aol.com	516-659-5034	

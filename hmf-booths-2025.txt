@@ -1,0 +1,156 @@
+Booth	Activity	Day	Slot	Name	Email	Phone	Comments
+Art Gallery	Set up and pricing	Friday	2:00 PM to 8:00 PM	Stacey Sloboda	staceysloboda@gmail.com		
+Art Gallery	Set up and pricing	Friday	2:00 PM to 8:00 PM	Patty Crotty	pcrottyart@gmail.com		
+Art Gallery	Boothing	Saturday	9:45 AM to 11:45 AM	Stacey Sloboda	staceysloboda@gmail.com		
+Art Gallery	Boothing	Saturday	9:45 AM to 11:45 AM	Judy Dyer	jdyer77@aol.com		
+Art Gallery	Boothing	Saturday	11:45 AM to 1:45 PM	Patty Crotty	pcrottyart@gmail.com		
+Art Gallery	Boothing	Saturday	11:45 AM to 1:45 PM	Lauren McNeill	laurenhmcneill@gmail.com		
+Art Gallery	Boothing	Saturday	1:45 PM to 3:45 PM	Patty Crotty	pcrottyart@gmail.com		
+Art Gallery	Boothing	Saturday	1:45 PM to 3:45 PM	Marilyn Downs	downs.marilyn@gmail.com		
+Household Finds	Boothing	Saturday	9:45 AM to 11:45 AM	Lynne Levine	lynnerlevine@gmail.com		
+Household Finds	Boothing	Saturday	9:45 AM to 11:45 AM	Amy Hadley	hadley12@verizon.net		
+Household Finds	Boothing	Saturday	9:45 AM to 11:45 AM	Cindy Stinson	stinson.cynthia@gmail.com		
+Household Finds	Boothing	Saturday	9:45 AM to 11:45 AM	Maureen Dolan	maureendolan@verizon.net		
+Household Finds	Boothing	Saturday	9:45 AM to 11:45 AM	Peggy Gardiner	peggy.gardiner@gmail.com		
+Household Finds	Boothing	Saturday	9:45 AM to 11:45 AM	Anna Donovan	jhdamd@gmail.com		
+Household Finds	Boothing	Saturday	11:45 AM to 1:45 PM	Jennifer Baxter	jenrenb72@gmail.com		
+Household Finds	Boothing	Saturday	11:45 AM to 1:45 PM	Joanne Cullinane	cullinanejoanne@gmail.com		
+Household Finds	Boothing	Saturday	11:45 AM to 1:45 PM	Sara Whitford	sdonwhit@aol.com		
+Household Finds	Boothing	Saturday	11:45 AM to 1:45 PM	Melissa Hower	melissa.m.hower@gmail.com		
+Household Finds	Boothing	Saturday	11:45 AM to 1:45 PM	Anna Donovan	jhdamd@gmail.com		
+Household Finds	Boothing	Saturday	1:45 PM to 3:45 PM	Carolyn White	cawhitema@gmail.com		
+Household Finds	Boothing	Saturday	1:45 PM to 3:45 PM	Stephen Pillemer	Thebito@aol.com		
+Household Finds	Boothing	Saturday	1:45 PM to 3:45 PM	Helen Rasmussen	hmrasmussen@aol.com		
+Household Finds	Boothing	Saturday	1:45 PM to 3:45 PM	Amy Anderson	aehanderson@gmail.com		
+Blue Table	Boothing	Saturday	9:45 AM to 11:45 AM	Shelly McPhail	shellymmcphail@gmail.com		
+Blue Table	Boothing	Saturday	9:45 AM to 11:45 AM	Nancy Gilday	nan.gild@gmail.com		
+Blue Table	Boothing	Saturday	11:45 AM to 1:45 PM	Anne Quaadgras	aquaadgras@alum.mit.edu		
+Blue Table	Boothing	Saturday	1:45 PM to 3:45 PM	Christa Kelleher	christakel@verizon.net		
+Blue Table	Boothing	Saturday	1:45 PM to 3:45 PM	Emily Randall	emily.p.randall@gmail.com		
+Book Nook	Table set up	Thursday	3:00 PM to 5:00 PM	Bob Fowkes	robtfowkes@gmail.com		
+Book Nook	Table set up	Thursday	3:00 PM to 5:00 PM	David Desjardins	davidgdesjardins@gmail.com		
+Book Nook	Table set up	Thursday	3:00 PM to 5:00 PM	Neil Schultz	Neil_Schultz@us.ibm.com		
+Book Nook	Sorting and pricing	Friday	2-3;30	Erica Beade	e.beade@verizon.net		
+Book Nook	Sorting and pricing	Friday	2:00 PM to 5:00 PM	Mary Fusoni	mary.fusoni@gmail.com		
+Book Nook	Boothing	Saturday	9:45 AM to 11:45 AM	Carol Wintle	carol@artbywintle.com		
+Book Nook	Boothing	Saturday	9:45 AM to 11:45 AM	Mary Fusoni	mary.fusoni@gmail.com		
+Book Nook	Boothing	Saturday	9:45 AM to 11:45 AM	Eric Segal	segal.eric@gmail.com		
+Book Nook	Boothing	Saturday	9:45 AM to 11:45 AM	Elizabeth Terry	eterry@umich.edu		
+Book Nook	Boothing	Saturday	9:45 AM to 11:45 AM	Lisa Davis	lisa.heisterkamp.davis@gmail.com		
+Book Nook	Boothing	Saturday	9:45 AM to 11:45 AM	Neil Schultz	Neil_Schultz@us.ibm.com		
+Book Nook	Boothing	Saturday	11:45 AM to 1:45 PM	Anne Wright	anneswright@gmail.com		
+Book Nook	Boothing	Saturday	11:45 AM to 1:45 PM	Robbie Rinearson	robbierinearson@gmail.com		
+Book Nook	Boothing	Saturday	11:45 AM to 1:45 PM	Cathy Modica	cmodica526@gmail.com		
+Book Nook	Boothing	Saturday	11:45 AM to 1:45 PM	Erica Beade	e.beade@verizon.net		
+Book Nook	Boothing	Saturday	11:45 AM to 1:45 PM	Jim Stansfield	jstansfield@comcast.net		
+Book Nook	Boothing	Saturday	11:45 AM to 1:45 PM	Dawn Terkla	dawn.terkla@tufts.edu		
+Book Nook	Boothing	Saturday	1:45 PM to 3:45 PM	Carol Schaeffer	#N/A		
+Book Nook	Boothing	Saturday	1:45 PM to 3:45 PM	Betsy Leondar-Wright	betsy@classmatters.org		
+Book Nook	Boothing	Saturday	1:45 PM to 3:45 PM	John Kloss	john.kloss@gmail.com		
+Book Nook	Boothing	Saturday	1:45 PM to 3:45 PM	David Desjardins	davidgdesjardins@gmail.com		
+Book Nook	Boothing	Saturday	1:45 PM to 3:45 PM	Sharon Wilke	sharon_wilke@verizon.net		
+Buttery	Boothing	Saturday	9:45 AM to 11:45 AM	Dorothy Anger	dorothyanger@gmail.com		
+Buttery	Boothing	Saturday	9:45 AM to 11:45 AM	Rachael Stark	refdesk@world.std.com		
+Buttery	Boothing	Saturday	11:45 AM to 1:45 PM	Arleen Kulin	akulin2003@yahoo.com		
+Buttery	Boothing	Saturday	1:45 PM to 3:45 PM	Mary Steuart	marysteuart@gmail.com		
+Cafe	Cashier	Saturday	11:00 AM to 2:00 PM	Janis Fleishman	jfleishm@gmail.com		
+Cafe	Cashier	Saturday	11:00 AM to 2:00 PM	Kate Tranquada	ktranq@verizon.net		
+Cafe	Servers	Saturday	11:00 AM to 2:00 PM	Enzo Bellantoni	enzo.bellantoni@icloud.com		
+Cafe	Servers	Saturday	11:00 AM to 2:00 PM	Lois Fine	l.fine@icloud.com		
+Cafe	Servers	Saturday	11:00 AM to 2:00 PM	Robin Schoenthaler	robin@robinshome.com		
+Cafe	Servers	Saturday	11:00 AM to 2:00 PM	Peggy Gardiner	peggy.gardiner@gmail.com		
+Friday set up help	Floater	Friday	5:00 PM to 8:00 PM	Kiki Giatis	giatisfp@gmail.com		
+Friday set up help	Floater	Friday	9:00 AM to 5:00PM	Sarah Bell	sarahbell57@gmail.com		
+Friday set up help	Floater	Friday	6:00 PM to 9:00 PM	Amy Hadley	hadley12@verizon.net		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Brian Miller	brianemiller49@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Cybille MacDonald	imaginecy@gmail.com		
+Friday set up help	Floater	Friday	5:00 PM to 8:00 PM	Logan Castrucci	logan.castrucci@gmail.com		
+Friday set up help	Floater	Friday	1:00 PM to 4:00 PM	Annette Sawyer	annette.sawyer53@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Conard Anderson	conard.anderson@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Onyx Hopwood	melaniejoy1@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Frank Snyder Di Cesare	frank@eggmoon.org		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Emily Balkam	emilyrbalkam@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Sarah Trilling	sarah.trilling@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Brendan Maher 	bmahe0r@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Mary Fusoni	mary.fusoni@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Peggy Gardiner	peggy.gardiner@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Pam Linov	pamlinov@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Lettie Carswell	lettiecarswell@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Joanne Cullinane	cullinanejoanne@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Jill Fekete	jillfekete@gmail.com		
+Friday set up help	Floater	Friday	2:00 PM to 8:00 PM	Cindy Stinson	stinson.cynthia@gmail.com		
+Greenery	Set up and pricing	Friday	1:00 PM to 5:00 PM	Loren Gomez	lorengomez388@gmail.com		
+Greenery	Set up and pricing	Friday	4:30 PM to 6:30 PM	Julie Dunn	jbdunn.99@gmail.com		
+Greenery	Boothing	Saturday	9:45 AM to 11:45 AM	Lynn Rosenbaum	lynnarosenbaum@gmail.com		
+Greenery	Boothing	Saturday	9:45 AM to 11:45 AM	Joanne Pohl	jpohl@umich.edu		
+Greenery	Boothing	Saturday	11:45 AM to 1:45 PM	Cathie Desjardins 	#N/A		
+Greenery	Boothing	Saturday	1:45 PM to 3:45 PM	Gail Page	gailapage@gmail.com		
+Holly Shoppe	Boothing	Saturday	9:45 AM to 11:45 AM	Andrea Winslow	AndreaWinslow63@yahoo.com		
+Holly Shoppe	Boothing	Saturday	9:45 AM to 11:45 AM	Debbie Diggins	#N/A		
+Holly Shoppe	Boothing	Saturday	11:45 AM to 1:45 PM	Carol Sykes	#N/A		
+Jewelry Box	Boothing	Saturday	9:45 AM to 11:45 AM	Bonnie Zimmer	bonnie.zimmer@gmail.com		
+Kitchen	Prep	Friday	6:00 PM to 8:00 PM	Lauren McNeill	laurenhmcneill@gmail.com		
+Kitchen	Prep	Friday	6:00 PM to 8:00 PM	Brianna Walsh	briannatufts@gmail.com		
+Kitchen	Prep	Friday	6:00 PM to 8:00 PM	Enzo Bellantoni	enzo.bellantoni@icloud.com		
+Kitchen	Prep	Friday	6:00 PM to 8:00 PM	Judy Dyer	jdyer77@aol.com		
+Kitchen	Prep	Friday	12:00 PM to 4:00 PM	Nancy Gilday	nan.gild@gmail.com		
+Kitchen	Prep	Friday	6:00 PM to 11:00 PM	Mary Steuart	marysteuart@gmail.com		
+Kitchen	Prep	Friday	6:00 PM to 11:00 PM	David Dreyfus	david@databasepub.com		
+Kitchen	Prep	Friday	12:00 PM to 4:00 PM	Emily Balkam	emilyrbalkam@gmail.com		
+Kitchen	Prep	Friday	6:00 PM to 11:00 PM	Robin Schoenthaler	robin@robinshome.com		
+Kitchen	Prep	Friday	6:00 PM to 11:00 PM	Elliot Trilling	elliot.trilling@gmail.com		
+Kitchen	Prep	Saturday	8:00 AM to 11:00 AM	Tali & Mike (and maybe 2 semi helpful kids)	taliseravery@gmail.com		
+Kitchen	Prep	Saturday	8:00 AM to 11:00 AM	Enzo Bellantoni	enzo.bellantoni@icloud.com		
+Kitchen	Prep	Saturday	8:00 AM to 11:00 AM	Robin Schoenthaler	robin@robinshome.com		
+Kitchen	Prep	Saturday	8:00 AM to 11:00 AM	Anthony Fernandez	anthony.fernandez.1999@alum.bu.edu		
+Quilt raffle	Ticket sales	Saturday	9:45 AM to 11:45 AM	Logan Castrucci	logan.castrucci@gmail.com		
+Quilt raffle	Ticket sales	Saturday	9:45 AM to 11:45 AM	Sarah Quick	sarahmariaquick@gmail.com		
+Quilt raffle	Ticket sales	Saturday	9:45 AM to 11:45 AM	Susan Moore	susanmoore1@gmail.com		
+Quilt raffle	Ticket sales	Saturday	11:45 AM to 1:45 PM	Logan Castrucci	logan.castrucci@gmail.com		
+Quilt raffle	Ticket sales	Saturday	11:45 AM to 1:45 PM	Sarah Quick	sarahmariaquick@gmail.com		
+Quilt raffle	Ticket sales	Saturday	11:45 AM to 1:45 PM	Susan Moore	susanmoore1@gmail.com		
+Quilt raffle	Ticket sales	Saturday	1:45 PM to 3:45 PM	Logan Castrucci	logan.castrucci@gmail.com		
+Quilt raffle	Ticket sales	Saturday	1:45 PM to 3:45 PM	Sarah Quick	sarahmariaquick@gmail.com		
+Quilt raffle	Ticket sales	Saturday	1:45 PM to 3:45 PM	Susan Moore	susanmoore1@gmail.com		
+Reboots and Rewinds	Boothing	Saturday	9:45 AM to 11:45 AM	David D'Antonio	dda@dantonio.net		
+Reboots and Rewinds	Boothing	Saturday	9:45 AM to 11:45 AM	Luchy Roa	luchyroakeefe@gmail.com		
+Reboots and Rewinds	Boothing	Saturday	9:45 AM to 11:45 AM	Frank Snyder Di Cesare	frank@eggmoon.org		
+Reboots and Rewinds	Boothing	Saturday	1:45 PM to 3:45 PM	Tara Rosenberger-Shankar	rosenshankar@gmail.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Lauren McNeill	laurenhmcneill@gmail.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Conard Anderson	conard.anderson@gmail.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Phil Speare	pspeare@verizon.net 		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Kate Tranquada	ktranq@verizon.net		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Jennifer Davis-Kay	jdavis.kay@rcn.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	James Brooks	jamesbrooks27@yahoo.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	David Whitford	davidwhitford@gmail.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Frank Snyder Di Cesare	frank@eggmoon.org		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Sarah Trilling	sarah.trilling@gmail.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Lettie Carswell	lettiecarswell@gmail.com		
+Saturday break down	Break down	Saturday	2:30 PM to 5 PM	Elliot Trilling	elliot.trilling@gmail.com		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday	All day	Mary Steuart	marysteuart@gmail.com		
+Thursday set up	Sanctuary set up	Thursday	2:00 PM to 5:00 PM	Rainer Dressler	rainer.dressler@comcast.net		
+Thursday set up	Sanctuary set up	Thursday	2:00 PM to 5:00 PM	Phil Speare	pspeare@verizon.net 		
+Thursday set up	Sanctuary set up	Thursday	2:00 PM to 5:00 PM	Steve Lazar	stevenrlazar@aol.com		
+Thursday set up	Sorting	Thursday	3:00 PM to 5:00 PM	Cybille MacDonald	imaginecy@gmail.com		
+Thursday set up	Sorting	Thursday	3:00 PM to 5:00 PM	Nancy Gilday	nan.gild@gmail.com		
+Thursday set up	Sorting	Thursday	9:00 AM to 12:00 PM	Emily Breck	ylime.dranoel@gmail.com		
+Thursday set up	Sorting	Thursday	3:00 PM to 5:00 PM	Luchy Roa	luchyroakeefe@gmail.com		
+Thursday set up	Sorting	Thursday	3:00 PM to 5:00 PM	Cindy Stinson	stinson.cynthia@gmail.com		
+Thursday set up	Sorting	Thursday	3:00 PM to 5:00 PM	Dorothy Anger	dorothyanger@gmail.com		
+Toyland	Boothing	Saturday	9:45 AM to 11:45 AM	Nicole Patience	nicolepatiencerd@gmail.com		
+Toyland	Boothing	Saturday	9:45 AM to 11:45 AM	Cathy Slesnick	clslesnick@gmail.com		
+Toyland	Boothing	Saturday	9:45 AM to 11:45 AM	Sarah Gyorog	sarah.gyorog@gmail.com		
+Toyland	Boothing	Saturday	9:45 AM to 11:45 AM	Jill Fekete	jillfekete@gmail.com		
+Toyland	Boothing	Saturday	11:45 AM to 1:45 PM	Brendan Maher 	bmahe0r@gmail.com		
+Toyland	Boothing	Saturday	11:45 AM to 1:45 PM	Mary Babic	marybabic254@hotmail.com		
+Toyland	Boothing	Saturday	11:45 AM to 1:45 PM	Barbara Ives	be.ives@gmail.com		
+Toyland	Boothing	Saturday	1:45 PM to 3:45 PM	Ellen Robie	ekrobie@gmail.com		
+Toyland	Boothing	Saturday	1:45 PM to 3:45 PM	Lettie Carswell	lettiecarswell@gmail.com		
+Toyland	Boothing	Saturday	1:45 PM to 3:45 PM	Mary Babic	marybabic254@hotmail.com		
+Tuck Box	Boothing	Saturday	11:45 AM to 1:45 PM	Fae Kramer	jlgarry@verizon.net		
+Tuck Box	Boothing	Saturday	9:45 AM to 11:45 AM	Patience Terry	patience_terry@yahoo.com		
+Membership Table	Boothing	Saturday	9:45 AM to 11:45 AM	Lois Fine	l.fine@icloud.com		
+Membership Table	Boothing	Saturday	9:45 AM to 11:45 AM	Amy Anderson	aehanderson@gmail.com		
+Membership Table	Boothing	Saturday	11:45 AM to 1:45 PM	Mary McCartney	mary.e.mccartney@gmail.com		
+Membership Table	Boothing	Saturday	11:45 AM to 1:45 PM	Christian Collins	lchristiancollins@gmail.com		
+Membership Table	Boothing	Saturday	1:45 PM to 3:45 PM	Mary Fusoni	mary.fusoni@gmail.com		

@@ -1,12 +1,12 @@
 #!/usr/bin/env python
-
+#
 #
 # hmf.py
-# 
+#
 # Command line tool for HMF stuff.  There's gonna be lots, you know.
-# 
+#
 # hmf print-booths booths2017.txt
-# 
+#
 
 import sys
 
@@ -38,9 +38,9 @@ def main(argv):
 
     infile = argv[1]
 
-    print "<html>"
+    print("<html>")
 
-    print """    <head>
+    print("""    <head>
     <style type="text/css">
         body {
             font-family: Arial, sans serif;
@@ -76,7 +76,7 @@ def main(argv):
         }
     </style>
     </head>
-    <body>"""
+    <body>""")
 
     boothopentag = '        <div class="booth">'
     boothclosetag = ""  # Close is set later
@@ -84,7 +84,7 @@ def main(argv):
     with open(infile, "r") as f:
         booth = ""
         slot = ""
-        f.next()
+        next(f)
         for line in f:
             if line.strip() == "":
                 continue
@@ -92,29 +92,29 @@ def main(argv):
             if fields[0].strip() != booth:
 
                 # It's a new booth, so close the old and open a new
-                print boothclosetag
+                print(boothclosetag)
                 boothclosetag = "        </div>"
-                print boothopentag
+                print(boothopentag)
 
                 booth = fields[0].strip()
                 slot = '%s %s' % (fields[2].strip(), fields[1].strip())
 
-                print boothize(fields)
-                print slotize(fields)
-                print volunteerize(fields)
+                print('%s' % boothize(fields))
+                print('%s' % slotize(fields))
+                print('%s' % volunteerize(fields))
 
             elif "%s %s" % (fields[2].strip(), fields[1].strip()) != slot:
 
                 slot = '%s %s' % (fields[2].strip(), fields[1].strip())
-                print slotize(fields)
-                print volunteerize(fields)
+                print('%s' % slotize(fields))
+                print('%s' % volunteerize(fields))
 
             else:
 
-                print volunteerize(fields)
+                print('%s' % volunteerize(fields))
 
-    print boothclosetag
-    print "    </body>\n</html>"
+    print('%s' % boothclosetag)
+    print("    </body>\n</html>")
 
 if __name__ == "__main__":
     main(sys.argv)

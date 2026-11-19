@@ -1,0 +1,417 @@
+Booth	Activity	Slot	Requested slots	Name	Email	Phone	Comments
+Attic Treasures	Thursday set up	Thursday evening	3	Katja Baker	katjabakerpsyd@gmail.com		
+Attic Treasures	Thursday set up	Thursday evening	3	Debbie Barens	debbiefnp@gmail.com		
+Attic Treasures	Thursday set up	Thursday evening	3	Cheryl Dressler	cheryl.dressler@comcast.net		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM		Sara Whitford	sdonwhit@aol.com		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Kathy Kemp	kkemp367@gmail.com		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Michelle Deakin	mbdeakin@rcn.com		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Sue Costello	suzannec40@yahoo.com		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	Emerson Olander	3m3rson@gmail.com		
+Attic Treasures	Friday set up and pricing	Friday between 12 and 10PM	5	David Madden	Djmadden52@gmail.com		
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Lynne Levine	lynnerlevine@gmail.com		
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Kathy Kemp	kkemp367@gmail.com		
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Emerson Olander	3m3rson@gmail.com		
+Attic Treasures	Boothing	Saturday 9:45-11:45	4	Michelle Deakin	mbdeakin@rcn.com		
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Sue Costello	suzannec40@yahoo.com		
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Maryglenn Vincens	vincens@mac.com		
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Alane Hodges	alanechodges@gmail.com		
+Attic Treasures	Boothing	Saturday 11:45-1:45	4	Katja Baker	katjabakerpsyd@gmail.com		
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4	Amy Hadley	hadley12@verizon.net		
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4	Katja Baker	katjabakerpsyd@gmail.com		
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4		#N/A		
+Attic Treasures	Boothing	Saturday 1:45- 3:45	4	Davic Madden	Djmadden52@gmail.com		
+Artisan Table	Set up and pricing	Friday	2		#N/A		
+Artisan Table	Set up and pricing	Friday	2		#N/A		
+Artisan Table	Boothing	Saturday 9:45-11:45	2	Erica Licea-Kane	erica.licea.kane@verizon.net		
+Artisan Table	Boothing	Saturday 9:45-11:45	2	Maureen Dolan	maureendolan@verizon.net		
+Artisan Table	Boothing	Saturday 11:45-1:45	2	Erica Licea-Kane	erica.licea.kane@verizon.net		
+Artisan Table	Boothing	Saturday 11:45-1:45	2	Maureen Dolan	maureendolan@verizon.net		
+Artisan Table	Boothing	Saturday 11:45-1:45		Peggy Gardiner	peggy.gardiner@gmail.com		
+Artisan Table	Boothing	Saturday 1:45- 3:45	2	Erica Licea-Kane	erica.licea.kane@verizon.net		
+Artisan Table	Boothing	Saturday 1:45- 3:45	2	Maureen Dolan	maureendolan@verizon.net		
+Artisan Table	Boothing	Saturday 1:45- 3:45	2		#N/A		
+Art Gallery	Thursday set up	Thursday 5:30 to 8	2		#N/A		
+Art Gallery	Thursday set up	Thursday 5:30 to 8	2		#N/A		
+Art Gallery	Set up and pricing	Friday (indicate time)	4		#N/A		
+Art Gallery	Set up and pricing	Friday (indicate time)	4		#N/A		
+Art Gallery	Set up and pricing	Friday (indicate time)	4	Katharine MacPhail	macphailkat@gmail.com		
+Art Gallery	Set up and pricing	Friday (indicate time)	4	Michael MacPhail	mmacphail109@gmail.com		
+Art Gallery	Boothing	Saturday 9:45- 11:45	2	Katharine MacPhail	macphailkat@gmail.com		
+Art Gallery	Boothing	Saturday 9:45- 11:45	2	Michael MacPhail	mmacphail109@gmail.com		
+Art Gallery	Boothing	Saturday 11:45-1:45	2	Katharine MacPhail	macphailkat@gmail.com		
+Art Gallery	Boothing	Saturday 11:45-1:45	2	Michael MacPhail	mmacphail109@gmail.com		
+Art Gallery	Boothing	Saturday 1:45- 3:45	2	Katharine MacPhail	macphailkat@gmail.com		
+Art Gallery	Boothing	Saturday 1:45- 3:45	2	Michael MacPhail	mmacphail109@gmail.com		
+Blue Table	Boothing	Saturday 9:45-11:45	3	Pam Linov	pamlinov@gmail.com		
+		Saturday 9:45-10:45					
+Blue Table	Boothing	Saturday 9:45-11:45	3	Mary Fusoni	mary.fusoni@gmail.com		
+Blue Table	Boothing	Saturday 9:45-11:45	3	Heidi Swarts	hjswarts1@yahoo.com		
+Blue Table	Boothing	Saturday 11:45 to 1:45	1	Sara Galantowicz	saragalantowicz@gmail.com		
+Blue Table	Boothing	Saturday 11:45 to 1:45		Arlene Kulin	#N/A		
+Blue Table	Boothing	Saturday 11:45-1:45	1	Sara Galantowicz	saragalantowicz@gmail.com		
+Blue Table	Boothing	Saturday 1:45- 3:45	1		#N/A		
+Blue Table	Boothing	Saturday 1:30 to 3	1		#N/A		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4	Diane Schaefer	dschaefer4@mac.com		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4	David DesJardins	davidgdesjardins@gmail.com		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4		#N/A		
+Book Nook	Table set up	Thursday parlor clearing / table set up 3 PM	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4		#N/A		
+Book Nook	Sorting	Thursday night (maybe 7 PM)	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4		#N/A		
+Book Nook	Sorting	Thursday night sorting	4	Neil Schultz	Neil_Schultz@us.ibm.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Neil Schultz	Neil_Schultz@us.ibm.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8		#N/A		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Paul Franzosa	pfranzosa@gmail.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 2-5 PM	8		#N/A		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Diane Schaefer	dschaefer4@mac.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Carol Lazell	clazell@msn.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Jennifer Davis-Kay	jdavis.kay@rcn.com		
+Book Nook	Sorting and pricing	Friday sorting and pricing 12 to 10 PM	8	Mary Fusoni	mary.fusoni@gmail.com		
+Book Nook	Boothing	Saturday 9:45-11:45	4	Elizabeth Terry	patience_terry@yahoo.com		
+Book Nook	Boothing	Saturday 9:45-11:45	4	Jean Nagle	jsn0708@gmail.com		
+Book Nook	Boothing	Saturday 9:45-11:45	4	Neil Schultz	Neil_Schultz@us.ibm.com		
+Book Nook	Boothing	Saturday 9:45-11:45	4		#N/A		
+Book Nook	Boothing	Saturday 10-12		Peter Howell	peterh6873@gmail.com		
+Book Nook	Boothing	Saturday 10-12		David DesJardins	davidgdesjardins@gmail.com		
+Book Nook	Boothing	Saturday 11:45- 1:45	4		#N/A		
+Book Nook	Boothing	Saturday 11:45- 1:45	4	MaryLou Solliday	sollid@aol.com		
+Book Nook	Boothing	Saturday 11:45- 1:45	4		#N/A		
+Book Nook	Boothing	Saturday 11:45- 1:45	4		#N/A		
+Book Nook	Boothing	Saturday 1:45- 3	4	Norma Floyd	normafloyd@juno.com		
+Book Nook	Boothing	Saturday 1:45- 3:45		David DesJardins	davidgdesjardins@gmail.com		
+Book Nook	Boothing	Saturday 1:45- 3:45	4	Chris Floyd	hcfloyd@verizon.net		
+Book Nook	Boothing	Saturday 1:45- 3:45	4	Eric Segal	segal.eric@gmail.com		
+Book Nook	Boothing	Saturday 1:45- 3:45	4	Betsy Leondar-Wright	betsy@classmatters.org		
+Buttery	Set up		2		#N/A		
+Buttery	Boothing	Saturday 9:45-11:45	2	Rachael Stark	refdesk@world.std.com		
+Buttery	Boothing	Saturday 9:45-11:45	1	Natalie Tyler	natle40@yahoo.com		
+Buttery	Boothing	Saturday 11:45-1:45	1	Kate Tranquada	ktranq@verizon.net		
+Buttery	Boothing	Saturday 11:45-1:45	1	Paul Hollings	paulhollings@verizon.net		
+Buttery	Boothing	Saturday 1:45 to 3:45	1	Jenifer Bosco	jmbosco@gmail.com		
+Buttery	Boothing	Saturday 1:45 to 3:45	1	Barbara Tosti	abtosti@outlook.com		
+Buttery	Boothing	Saturday 1:45 to 3:45		Heidi Swarts	hjswarts1@yahoo.com		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4		#N/A		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4		#N/A		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4		#N/A		
+Reboots and Rewinds	Set up and pricing	Friday (indicate time)	4	Mary McCartney	mary.e.mccartney@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3	Ted Live	ted.live@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3	John Anderson	andersonjc37@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:30	3	Mary McCartney	mary.e.mccartney@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 9:45-11:45	3		#N/A		
+Reboots and Rewinds	Boothing	Saturday 11:45- 1	3		#N/A		
+Reboots and Rewinds	Boothing	Saturday 11:45- 1:45	3	Mike Birenbach	mjbiren@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 11:45- 1:45	3		#N/A		
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45			#N/A		
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45	2	Thomas Kitzmiller	thomas.mkitzmiller@gmail.com		
+Reboots and Rewinds	Boothing	Saturday 1:45- 3:45	2		#N/A		
+Fragile Fancies	Sorting	Thursday 4 to 9 PM	2	Nina Duncan	NLDuncan 23@gmail.com		
+Fragile Fancies	Sorting	Thursday 4 to 9 PM	2	Mary Young	marybyoungma@gmail.com		
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	 from 5:00:00 PM	Bob Fowkes	robtfowkes@gmail.com		
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	3	Joyce Thompson	jthomkiwi@aol.com		1PM to 3PM
+Fragile Fancies	Set up and pricing	Friday 10am to 10pm (indicate time)	3	Amy Hadley	hadley12@verizon.net		
+Fragile Fancies	Boothing	Saturday 9:45-11:45	2	Nina Duncan	NLDuncan 23@gmail.com		
+Fragile Fancies	Boothing	Saturday 9:45-11:45	2	Joanne Cullinane	cullinanejoanne@gmail.com		
+Fragile Fancies	Boothing	Saturday 11:45- 1:45	2	Anna Donovan	jhdamd@gmail.com		
+Fragile Fancies	Boothing	Saturday 11:45- 1:45	2	Janet Wilder	janetwilder@icloud.com		
+Fragile Fancies	Boothing	Saturday 1:45- 3:45	2	Anna Donovan	jhdamd@gmail.com		
+Fragile Fancies	Boothing	Saturday 1:45- 3:45	2	Joyce Thompson	jthomkiwi@aol.com		
+Greenery	Set up and pricing	Friday 3-5:30	2	Peggy Gardiner	peggy.gardiner@gmail.com		
+Greenery	Set up and pricing	Friday 3-5:30	2		#N/A		
+Greenery	Set up and pricing	Friday 5:30 to 8	2	Susan Timberlake	s.timberlake@gmail.com		
+Greenery	Set up and pricing	Friday 5:30 to 8	2	Lynn Rosenbaum	lynnarosenbaum@gmail.com		
+Greenery	Boothing	Saturday 9:45 to 11:45	3	Julie Dunn	jbdunn.99@gmail.com		
+Greenery	Boothing	Saturday 9:45 to 11:45	3	Cathy Modica	cmodica526@gmail.com		
+Greenery	Boothing	Saturday 9:45 to 11:45	3	Pat Magee	plimag@comcast.net		
+Greenery	Boothing	Saturday 11:45- 1:45	3	Cathie DeJardins	cathie.desjardins2@verizon.net		
+Greenery	Boothing	Saturday 11:45- 1:45	3	Carolyn Carlson	carolynrauh@gmail.com		
+Greenery	Boothing	Saturday 11:45- 1:45	3		#N/A		
+Greenery	Boothing	Saturday 1:45- 3:45	3	Cathie DeJardins	cathie.desjardins2@verizon.net		
+Greenery	Boothing	Saturday 2-3	3		#N/A		
+Greenery	Boothing	Saturday 1:45- 3:45	3		#N/A		
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4	Sharen Leonard	sharen.leonard@verizon.net		
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A		
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A		
+Jewelry Box	Sorting and set up	Thursday (indicate time available)	4		#N/A		
+Jewelry Box	Sorting and set up	Thursday 5:30-9:00	3		#N/A		
+Jewelry Box	Sorting and set up	Thursday 5:30-9:00	3		#N/A		
+Jewelry Box	Sorting and set up	Thursday 4:00-5:30	3		#N/A		
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4	Sharen Leonard	sharen.leonard@verizon.net		
+Jewelry Box	Set up and pricing	Friday 12-1:30	4		#N/A		
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4	Patience Terry	patience_terry@yahoo.com		Staring 3PM
+Jewelry Box	Set up and pricing	Friday (indicate time available)	4	Peggy Gardiner	peggy.gardiner@gmail.com		
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3	Kiki Giatis	giatisfp@gmail.com		
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3		#N/A		
+Jewelry Box	Set up and pricing	Friday 3:00-5:00	3		#N/A		
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3		#N/A		
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3		#N/A		
+Jewelry Box	Set up and pricing	Friday 5:00-8:00	3		#N/A		
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Peggy Gardiner	peggy.gardiner@gmail.com		
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Sharen Leonard	sharen.leonard@verizon.net		
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Joanna Pushee	jpushee@gmail.com		
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Patience Terry	patience_terry@yahoo.com		
+Jewelry Box	Boothing	Saturday 9:45 to 11:45	5	Claire Kitzmiller	claire.ekitzmiller@gmail.com		
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Sharen Leonard	sharen.leonard@verizon.net		
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Amy Anderson	aehanderson@gmail.com		
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Lisa Yourke	pilates@mac.com		
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4	Alisa Conner	alisaconner@gmail.com		
+Jewelry Box	Boothing	Saturday 11:45 to 1:45	4		#N/A		
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3	Sharen Leonard	sharen.leonard@verizon.net		Not around for full clean up
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3	Liz Blumenthal	liz@coachlizblu.com		
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3		#N/A		
+Jewelry Box	Boothing	Saturday 1:45 to 3:45	3		#N/A		
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5	Andrea Winslow	AndreaWinslow63@yahoo.com		
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5	Laurie Francis	lauriejfrancis@gmail.com		
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A		
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A		
+Holly Shoppe	Set up and pricing	Friday 10 to 8 (indicate time)	5		#N/A		
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3	Andrea Winslow	AndreaWinslow63@yahoo.com		
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3	Janet Levy	calicojan@gmail.com		
+Holly Shoppe	Boothing	Saturday 9:45-11:45	3	Diane Shriver	shriver1@comcast.net		
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3	Andrea Winslow	AndreaWinslow63@yahoo.com		
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3	Diane Shriver	shriver1@comcast.net		
+Holly Shoppe	Boothing	Saturday 11:45- 1:45	3		#N/A		
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3	Diane Shriver	shriver1@comcast.net		
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3		#N/A		
+Holly Shoppe	Boothing	Saturday 1:45- 3:45	3		#N/A		
+Stitch and Sew	Set up and pricing	Friday	3		#N/A		
+Stitch and Sew	Set up and pricing	Friday	3		#N/A		
+Stitch and Sew	Set up and pricing	Friday	3		#N/A		
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2	Marilyn Jackson	marilyn448@gmail.com		
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2	Laura Baumann	desertmorningdesigns@gmail.com		
+Stitch and Sew	Boothing	Saturday 9:45 - 11:45	2		#N/A		
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2	Jean Nagle	jsn0708@gmail.com		
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2	Heidi Swarts	hjswarts1@yahoo.com		
+Stitch and Sew	Boothing	Saturday 11:45- 1:45	2		#N/A		
+Stitch and Sew	Boothing	Saturday 1-3	2	Ann Abbott	Annabbott5@gmail.com		
+Stitch and Sew	Boothing	Saturday 1:45- 3:45	2		#N/A		
+stitch and Sew	Boothing	saturday 1:45			#N/A		
+Toyland	Set up and pricing	Thursday 6 to 9	3		#N/A		
+Toyland	Set up and pricing	Thursday 6 to 9	3		#N/A		
+Toyland	Set up and pricing	Thursday 6 to 9	3		#N/A		
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6	Janis Fleishman	jfleishm@gmail.com		1 to 5 PM
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A		
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A		
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A		
+Toyland	Set up and pricing	Friday 11:30 to 2:30	6		#N/A		
+Toyland	Set up and pricing	Friday 10 to 5 PM (indicate time)	6		#N/A		
+Toyland	Boothing	Saturday 9:45-11:45	4	Amy Speare	amyhspeare@gmail.com		
+Toyland	Boothing	Saturday 9:45-11:45	4	Susan Timberlake	s.timberlake@gmail.com		
+Toyland	Boothing	Saturday 9:45-11:45	4		#N/A		
+Toyland	Boothing	Saturday 9:45-11:45	4		#N/A		
+Toyland	Boothing	Saturday 11:45- 1:45	3	Lois Fine	lois.wainstock.fine@gmail.com		
+Toyland	Boothing	Saturday 11:45- 1:45	3		#N/A		
+Toyland	Boothing	Saturday 11:45- 1:45	3		#N/A		
+Toyland	Boothing	Saturday 1:45- 3:45	3	Anne Goodwin	annegoodwin@comcast.net		
+Toyland	Boothing	Saturday 1:45- 3:45	3	Kim McMaken-Marsh	mcmarshkens@mac.com		
+Toyland	Boothing	Saturday 1:45- 3:45	3		#N/A		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Marie Rad	mrad_eastwick@yahoo.com		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Nancy Crasco	ncrasco@gmail.com		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Dawn Terkla	dawn.terkla@tufts.edu		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Caryn Sandrew	#N/A		
+Tuck Box	Set up and pricing	Friday 10 to 9 (indicate time)	4	Maggie Clayton	#N/A		
+Tuck Box	Boothing	Saturday 10-3		Marie Rad	mrad_eastwick@yahoo.com		
+Tuck Box	Boothing	Saturday 10-3		Dawn Terkla	dawn.terkla@tufts.edu		
+Tuck Box	Boothing	Saturday 10-3	2	Nancy Crasco	ncrasco@gmail.com		
+Tuck Box	Boothing	Saturday 10-12	2	Jean Rosenberg	jl.rosenberg@comcast.net		
+Tuck Box	Boothing	Saturday 10-12	2	Dorothy May	doromay1944@gmail.com		
+Tuck Box	Boothing	Saturday 10-3	2		#N/A		
+Tuck Box	Boothing	Saturday 12-1	2	Caryn Sandrew	#N/A		
+Tuck Box	Boothing	Saturday 12-2	2	Elizabeth Dyer	elizabethdyer@verizon.net		
+Tuck Box	Boothing	Saturday 12:30-2:30	1	PJ Gardiner	peachg1@gmail.com		
+Tuck Box	Boothing	Saturday 1:30-3		Deb Lewis			
+Tuck Box	Boothing	Saturday 1-3	1	Margaret Schramm	schrammm@hartwick.edu		
+Tuck Box	Boothing	Saturday 1-3	2	Bonnie Zimmer	bonnie.zimmer@gmail.com		
+Tuck Box	Boothing	Saturday 1-3		Ann Mathes	annmathes@yahoo.com		
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3		#N/A		
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3		#N/A		
+Kitchen	Wednesday clean up	Wednesday 8 to 10 pm	3		#N/A		
+Kitchen	Shopping	Friday 12 to 5 PM	2		#N/A		
+Kitchen	Shopping	Friday 12 to 5 PM	2		#N/A		
+Kitchen	Prep	Friday 5 to 11 PM	8		#N/A		
+Kitchen	Prep	Friday 5 to 11 PM	8		#N/A		
+Kitchen	Prep	Friday 5 to 11 PM	8		#N/A		
+Kitchen	Prep	Friday 5 to 11 PM	8	Anne McMaken-Marsh	mcmarshkens@mac.com		
+Kitchen	Prep	Friday 5 to 11 PM	8	Marie Meteer	mmeteer@mac.com		
+Kitchen	Prep	Friday 5 to 11 PM	8	David Klingsberg	davidklingsberg@yahoo.com		
+Kitchen	Prep	Friday 5 to 11 PM	8	Anne Quaadgras	aquaadgras@alum.mit.edu		
+Kitchen	Prep	Friday 5 to 11 PM	8	Tim Keefe	tim.keefe2010@gmail.com		
+Kitchen	Prep	Saturday 8 to 11 AM	6	Anthony Fernandez	anthony.fernandez.1999@alum.bu.edu		
+Kitchen	Prep	Saturday 8 to 11 AM	6	David Klingsberg	davidklingsberg@yahoo.com		
+Kitchen	Prep	Saturday 8 to 11 AM	6	Marie Meteer	mmeteer@mac.com		
+Kitchen	Prep	Saturday 8 to 11 AM	6	Linda Brown	#N/A		
+Kitchen	Prep	Saturday 8 to 11 AM	6	Luci VanderPile	#N/A		
+Kitchen	Prep	Saturday 8 to 11 AM	6		#N/A		
+Kitchen	Prep	Saturday 8 to 11 AM	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6	Robin Schoenthaler	robin@robinshome.com		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 11 to 1	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6		#N/A		
+Kitchen	Prep and serving from the kitchen	Saturday 1 to 3	6		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 10- 11 AM	2	Robin Schoenthaler	robin@robinshome.com		
+Kitchen	Dishwashing and clean up	Saturday 10- 11 AM	2		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 11AM- 12 PM	2	Robin Schoenthaler	robin@robinshome.com		
+Kitchen	Dishwashing and clean up	Saturday 11AM- 12 PM	2		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 12 to 1PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 1 to 2 PM	3	Alan Linov	alanlinov1@gmail.com		
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3		#N/A		
+Kitchen	Dishwashing and clean up	Saturday 2 to 3 PM	3	Alan Linov	alanlinov1@gmail.com		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A		
+Cafe	Set up tables, layout cafe	Friday 10am to 10 PM	6		#N/A		
+Cafe	Breakfast bar	Saturday 8 to 10 AM	2		#N/A		
+Cafe	Breakfast bar	Saturday 8 to 10 AM	2		#N/A		
+Cafe	Servers	Saturday 9:45-11:45			#N/A		
+Cafe	Servers	Saturday 10-3	6	Katherine Levine	levinek93@gmail.com		
+Cafe	Cashier	Saturday 11 to 12:30	6	Delia VanDerpile	vanderpile@comcast.net		
+Cafe	Servers	Saturday 11 to 12:30	6	Steve McMullin	stevemcmullin2@gmail.com		
+Cafe	Servers	Saturday 11 to 12:30	6		#N/A		
+Cafe	Servers	Saturday 11 to 12:30	6		#N/A		
+Cafe	Servers	Saturday 11:30 to 1:30	6		#N/A		
+Cafe	Servers	Saturday 12:30 to 2	6	Claire Kitzmiller	claire.ekitzmiller@gmail.com		
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A		
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A		
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A		
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A		
+Cafe	Servers	Saturday 12:30 to 2	6		#N/A		
+Cafe	Drinks table	Saturday 11 to 12:30	2		#N/A		
+Cafe	Drinks table	Saturday 11 to 12:30	2		#N/A		
+Cafe	Drinks table	Saturday 12:30 to 2	2		#N/A		
+Cafe	Drinks table	Saturday 12:30 to 2	2		#N/A		
+Cafe	Floater	Saturday 11 to 3:00	1		#N/A		
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4		#N/A		
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4		#N/A		
+Cafe	Table clearing and setting	Saturday 11 to 12:30	4		#N/A		
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A		
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A		
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A		
+Cafe	Table clearing and setting	Saturday 12:30 to 2	4		#N/A		
+Cafe	Cashier	Saturday 11 to 12:30	2	Janis Fleishman	jfleishm@gmail.com		
+Cafe	Cashier	Saturday 11 to 12:30	2		#N/A		
+Cafe	Cashier	Saturday 12:30 to 2	2		#N/A		
+Cafe	Cashier	Saturday 12:30 to 2	2		#N/A		
+Cafe	Break down	Saturday 3 to 4	6		#N/A		
+Cafe	Break down	Saturday 3 to 4	6		#N/A		
+Cafe	Break down	Saturday 3 to 4	6		#N/A		
+Cafe	Break down	Saturday 3 to 4	6		#N/A		
+Cafe	Break down	Saturday 3 to 4	6		#N/A		
+Cafe	Break down	Saturday 3 to 4	6		#N/A		
+Thursday set up	General	Any time	1	Jill Fekete	jillfekete@gmail.com		
+Thursday set up	General	Thursday 2 to 7	1	Amy Speare	amyhspeare@gmail.com		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8	Lucas Fernandez	anthony.fernandez.1999@alum.bu.edu		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8	Cole Speare	cspeare2021@spyponders.com		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A		
+Thursday set up	Moving chairs from the sanctuary	Thursday 3 to 4	8		#N/A		
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4		#N/A		
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4		#N/A		
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4		#N/A		
+Thursday set up	Building infrastructure	Thursday 4 to 5:30	4		#N/A		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	John Anderson	andersonjc37@gmail.com		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8		#N/A		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	Lisa Yourke	pilates@mac.com		
+Thursday set up	Sorting	Thursday 5:30 to 9 PM	8	Pamela Powell	mermaidpam@yahoo.com		
+Thursday set up	Supper coordinator	Thursday 5:30 to 7	2	Lorraine Cooley	lorrainecooley99@gmail.com		
+Thursday set up	Supper coordinator	Thursday 5:30 to 7	2		#N/A		
+Friday set up help	Floater	10 AM to 10 PM	3	Jill Fekete	jillfekete@gmail.com		
+Friday set up help	Floater	10 AM to 10 PM	3	Amy Speare	amyhspeare@gmail.com		
+Friday set up help	Floater	10 AM to 10 PM		John Anderson	andersonjc37@gmail.com		
+Friday set up help	Floater	10 AM to 10 PM		Anne Goodwin	annegoodwin@comcast.net		
+Friday set up help	Floater	10 AM to 10 PM		Chloe Briede	chloe@firstparish.info		2-5 PM
+Friday set up help	Floater	10 AM to 10 PM		Lois Fine	lois.wainstock.fine@gmail.com		
+Friday set up help	Floater	10 AM to 10 PM		Steve McMullin	stevemcmullin2@gmail.com		Evening
+Friday set up help	Floater	10 AM to 10 PM	3	Susan Timberlake	s.timberlake@gmail.com		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 7 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Decorate vestry	Decorator	Friday 6 to 9	8		#N/A		
+Friday set up	Supper coordinator	Friday 5:30 to 7	2	Lorraine Cooley	lorrainecooley99@gmail.com		
+Friday set up	Supper coordinator	Friday 5:30 to 7	2		#N/A		
+Saturday- Info/Membership Table	Boothing	Saturday 9:30 to 10:45	1		#N/A		
+Saturday- Info/Membership Table	Boothing	Saturday 10:30 to 11:45	1		#N/A		
+Saturday- Info/Membership Table	Boothing	Saturday 11:30 to 12:45	1		#N/A		
+Saturday- Info/Membership Table	Boothing	Saturday 12:30 to 1:45	1		#N/A		
+Saturday- Info/Membership Table	Boothing	Saturday 1:30 to 2:45	1		#N/A		
+Saturday- Info/Membership Table	Boothing	Saturday 2:30 to 3:15	1		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 9:45 to 11:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 11:45 to 1:45	4		#N/A		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 1:45 to 3:45	2	Janis Fleishman	jfleishm@gmail.com		
+Saturday- floaters (help where needed on the spot)	Floater	Saturday 1:45 to 3:45	2		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 10 to 11:30	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 11:30 to 1:15	4		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3		#N/A		
+Saturday- Greeters (greet and direct people)	Greeter	Saturday 1:15 to 3	3		#N/A		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Jennifer Davis-Kay	jdavis.kay@rcn.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Phil Speare	pspeare@verizon.net 		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Margaret Lynch	margaret.a.lynch@gmail.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	John Galantowicz	galantowicz@gmail.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Phil Lewis	lewisbg@gmail.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Thomas Kitzmiller	thomas.mkitzmiller@gmail.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Tim Greene	greka01@comcast.net		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Michael Varnum	varnummi@belmonthill.org		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Amy Speare	amyhspeare@gmail.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Kathy Greene	greka01@comcast.net		
+Saturday break down	Break down	Saturday 3 to 4:30	12	Al Tosti	abtosti@outlook.com		
+Saturday break down	Break down	Saturday 3 to 4:30	12		#N/A		
+Quilt raffle	Ticket sales	30-Oct	1		#N/A		
+Quilt raffle	Ticket sales	6-Nov	1		#N/A		
+Quilt raffle	Ticket sales	13-Nov	1		#N/A		
+Quilt raffle	Set up	Saturday, November 18	1	Susan Moore	susanmoore1@gmail.com		
+Quilt raffle	Ticket sales	Saturday 9:30 to 11 ( Susan will there)	1	Susan Moore	susanmoore1@gmail.com		
+Quilt raffle	Ticket sales	Saturday 11 to 1	1	Susan Moore	susanmoore1@gmail.com		
+Quilt raffle	Ticket sales	Saturday 1 to 3	1	Susan Moore	susanmoore1@gmail.com		
+Buttery	Baking	Any	1	Emily Harris-Walker	EmiHarris@gmail.com		
+Buttery	Baking	Any	1	Joanna Pushee	jpushee@gmail.com		
+Buttery	Baking	Any	1	Margaret Lynch	margaret.a.lynch@gmail.com		
+Buttery	Baking	Any	1	Heidi Swarts	hjswarts1@yahoo.com		
+Buttery	Baking	Any	1	Laurie Francis	lauriejfrancis@gmail.com		
+Buttery	Baking	Any	1	Pam Hollings	#N/A		
+Buttery	Baking	Any	1		#N/A		
+Buttery	Baking	Any	1		#N/A		
+Buttery	Baking	Any	1		#N/A		
+Buttery	Baking	Any	1		#N/A		
+Buttery	Baking	Any	1		#N/A		
+Buttery	Baking	Any	1		#N/A		
+Buttery	Baking	Any			#N/A		
+Buttery	Baking	Any			#N/A		
+Buttery	Baking	Any			#N/A		
+	baking w Carolyn	Fri evening 			#N/A		
